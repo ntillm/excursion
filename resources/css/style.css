@@ -1,8 +1,35 @@
 body{
     background-color: black;
     color: white;
+    text-align: center;
 }
 
 h1{
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.btn{
+    color:aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+p{
+    color: gray;
+    font-size: 21px;
+
+}
+
+.footer{
+    text-align: right;
 }
